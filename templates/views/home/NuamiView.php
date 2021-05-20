@@ -102,4 +102,63 @@
 </section>
   <!-- Slider -->
 
+<section class="courses section">
+  <div class=" container">
+    <div class="row">
+      <div class="col-lg-7 col-md-12 col-12" style="margin:4% 0%;">
+        <div class="text-content">
+          <h4 class="text-center mb-3 mt-2"> INVITACIÓN</h4>
+          <p class="text-justify">
+            “Nihil novum sub sole”, nada nuevo bajo el sol. La humanidad ha pasado
+            por crisis sanitarias, con sus consecuentes efectos y en repetidas veces a
+            lo largo de su historia, pero nos olvidamos que la pandemia del siglo XXI
+            recién lleva un año. Parece que no nos abandonará este año 2021, a pesar
+            de las restricciones de movilidad mundial y las estrictas normas 
+            sanitarias. La primera, la segunda, y la tercera ola de la COVID-19, 
+            y sus variantes, nos han azotado implacablemente. 
+            Las vacunas están comenzando a generar la esperanza de crear el “efecto inmunidad de rebaño”
+            o “ver la luz al final del túnel” .
+          </p>
+          <p class="text-justify">
+            Sin embargo, son muchas incertidumbres para una sociedad que ya
+            presentaba grandes y globales problemas de
+            desigualdades. En este contexto los problemas se han
+            agudizado y visibilizado más aún. Solamente por mencionar algunos que
+            se tienen a la vista: el aumento de la violencia de género e intrafamiliar, la
+            crisis migratoria, el empobrecimiento acelerado de los países
+            subdesarrollados, las brechas digitales entre países, el aumento de
+            problemas mentales en la juventud
+            y la falta de solidaridad.
+          </p>
+          <p class="text-justify">
+            Nuevamente la Red de Académicas Sin Fronteras aportará el 2021 con
+            diagnósticos, estudios, investigaciones y reflexiones para procurar una
+            mejor sociedad. Este año le corresponderá la responsabilidad a las
+            académicas de Tacna - Perú, la organización del VIII Encuentro Internacional, que será liderado por la Universidad Nacional Jorge Basadre
+            Grohmann.
+          </p>
+          <p class="text-justify">
+          El VIII Encuentro Internacional Académicas Sin Fronteras, Tacna - Perú 2021
+          se realizará en la modalidad virtual en octubre 2021, con la “Sociedad
+          Líquida: desafíos y estrategias para los nuevos tiempos”.
+          Las invitamos a presentarnos sus temas de interés a:
+          académicasinfronteras@gmail.com
+          </p>
+        </div>
+      </div>
+
+      <div class="col-lg-5 col-md-12 col-12 text-center; mt-5">
+        <img src="<?php echo IMAGES.'presentacion.PNG' ?>" class="rounded mx-auto d-block w-50">
+        <br>
+        <p class="text-center"><b>Ansonia Lillo Tor</b></p>
+        <p class="text-justify px-5">
+          Doctora en Administración de Universidad Politécnica de Cataluña, Barcelona España Ingeniera Civil 
+          de Universidad de Chile Rectora de la Sede Arica Universidad Santo Tomás Chile Presidenta de Red 
+          Académicas Sin Fronteras 
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <?php require_once INCLUDES.'inc_footer.php'; ?>
