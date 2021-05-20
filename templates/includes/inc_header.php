@@ -86,7 +86,7 @@
         <div class="col-lg-2 col-12">
         <!-- Logo -->
         <div class="logo">
-          <a href="/"><img src="<?php echo IMAGES.'logo_ciis.svg'?>" style="width: 120px !important; margin: 10px 10px;" alt="CIIS XXI"></a>
+          <a href="/"><img src="<?php echo IMAGES.'logo02.png'?>" style="width: 200px !important; margin: 10px 10px;" alt="ENCUENTRO INTERNACIONAL"></a>
         </div>
         <!--/ End Logo -->
         <div class="mobile-menu"></div>
@@ -98,12 +98,32 @@
               <!-- Main Menu -->
               <ul id="nav" class="nav menu navbar-nav" style="letter-spacing:-0.5px">
                 <li class=" active"><a href="/"><i class="fa fa-home"></i>INICIO</a></li>
+                <li>
+                  <a href="#"><i class="fa fa-suitcase"></i>COMITES</a>
+                  <ul class="dropdown">
+                    <li><a href="#">COMITE INTERNACIONAL</a></li>
+                    <li><a href="#">COMITE ORGANIZADOR</a></li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="#"><i class="fa fa-suitcase"></i>INFORMACIÓN</a>
+                  <ul class="dropdown">
+                    <li><a href="#">INSCRIPCIONES</a></li>
+                    <li><a href="#">PONENCIAS</a></li>
+                    <li><a href="#">ENSAYOS</a></li>
+                    <li><a href="#">INVESTIGACIÓN</a></li>
+                  </ul>
+                </li>
+                <li><a href="#"><i class="fa fa-home"></i>ANTECEDENTES</a></li>
+                <li><a href="#"><i class="fa fa-home"></i>VIDEOS Y FOTOS</a></li>
               </ul>
+              <!-- End Main Menu -->
             </div>
           </nav>
         </div>
       </div>
     </div>
   </div> 
+  <!--/ End Header Inner -->
 </header>
 <!-- End Header -->

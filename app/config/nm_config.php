@@ -8,7 +8,7 @@
 
     define('BASEPATH', IS_LOCAL ? '/unjbg2021/' : '__EL BASEPATH EN PRODUCCIÓN__');
 
-    define('AUTH_SALT', 'NainAcero<3');                                        /* Sal del Sistema */
+    define('AUTH_SALT', 'NainAcero');                                        /* Sal del Sistema */
 
     define('PORT','80');
 
