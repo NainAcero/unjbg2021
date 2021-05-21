@@ -5,10 +5,10 @@
         }
 
         public function index(){
-            @View::render('Organizador');
+            View::render('Organizador');
         }
 
         public function internacional(){
-            @View::render('Internacional');
+            View::render('Internacional');
         }
     }

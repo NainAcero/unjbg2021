@@ -10,7 +10,7 @@
                 'title' => 'Nuami Framework',
                 'bg'    =>  'dark'
             ];
-            @View::render('Nuami', $data);
+            View::render('Nuami', $data);
         }
 
         function test(){
@@ -19,11 +19,11 @@
                 'title' => 'Nuami Framework',
                 'bg'    =>  'dark'
             ];
-            @View::render('test', $data);
+            View::render('test', $data);
         }
 
         function flash(){
-            @View::render('flash');
+            View::render('flash');
         }
 
     }

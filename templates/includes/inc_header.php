@@ -54,7 +54,7 @@
 <!-- Fancy Box CSS -->
 <link rel="stylesheet" href="<?php echo CSS.'jquery.fancybox.min.css' ?>">
 <!-- Font Awesome CSS -->
-<link rel="stylesheet" href="<?php echo CSS.'font-awesome.min.css' ?>">
+<script src="https://kit.fontawesome.com/882059baa9.js" crossorigin="anonymous"></script>
 <!-- Fancy Box CSS -->
 <link rel="stylesheet" href="<?php echo CSS.'cube-portfolio.min.css' ?>">
 <!-- Animate CSS -->
