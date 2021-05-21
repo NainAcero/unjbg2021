@@ -1,3 +1,65 @@
+<footer class="footer section">
+  <!-- Footer Top -->
+  <div class="footer-top overlay">
+    <div class="container" style="font-size:16px; ">
+      <div class="row"> 
+        <div class="col-lg-4 col-md-6 col-12">
+          <!-- About -->
+          <div class="single-widget about">
+            <h2>INSCRIPCIONES</h2>  
+            <ul class="list" style="position: relative;">
+              <li><i class="fa fa-phone fa-lg"></i> Teléfono: 969 726 090 </li>
+              <li class="active"><a href="https://www.facebook.com/UNJBG.ocim" target="_blank" title="Facebook de UNJBG"><i class="fa fa-facebook"></i> @UNJBG.ocim</a></li>
+              <li><a href="https://www.instagram.com/unibasadre/" target="_blank" title="UNJBG"><i class="fab fa-instagram"></i> unibasadre</a></li>
+              <li><a href="http://www.unjbg.edu.pe/" target="_blank" title="UNJBG"><i class="fas fa-globe"></i> unibasadre</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-12">
+          <!-- About -->
+          <div class="single-widget about">
+            <h2>EJES TEMÁTICOS</h2>  
+            <ul class="list" style="position: relative;" >
+              <li>Educación</li>
+              <li>Economía</li>
+              <li>Salud</li>
+              <li>Social</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 col-12">
+          <!-- About -->
+          <div class="single-widget about ">
+            <h2 style="color: transparent">EJES TEMÁTICOS</h2> 
+            <ul class="list" style="position: relative;" >
+              <li>Político</li>
+              <li>Psicológico</li>
+              <li>Medio ambiente</li>
+              <li>Ciencia y tecnología</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--/ End Footer Top -->
+  <!-- Footer Bottom -->
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <!-- Copyright -->
+          <div class="copyright">
+            <p>© Copyright 2021. ENCUENTRO INTERNACIONAL VIII SIN FRONTERAS</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
 <!-- Jquery JS-->
 <script src="<?php echo JS.'jquery.min.js' ?>"></script>
 <!-- migrate-->
