@@ -7,7 +7,7 @@
         public function index(){
             $data =
             [
-                'title' => 'Nuami Framework',
+                'title' => 'UNJBG',
                 'bg'    =>  'dark'
             ];
             View::render('Nuami', $data);
