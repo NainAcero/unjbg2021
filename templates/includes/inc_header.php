@@ -97,12 +97,12 @@
             <div class="navbar-collapse">
               <!-- Main Menu -->
               <ul id="nav" class="nav menu navbar-nav" style="letter-spacing:-0.5px">
-                <li class=" active"><a href="/"><i class="fa fa-home"></i>INICIO</a></li>
+                <li class=" active"><a href="<?php echo URL ?>"><i class="fa fa-home"></i>INICIO</a></li>
                 <li>
                   <a href="#"><i class="fa fa-suitcase"></i>COMITES</a>
                   <ul class="dropdown">
-                    <li><a href="#">COMITE INTERNACIONAL</a></li>
-                    <li><a href="#">COMITE ORGANIZADOR</a></li>
+                    <li><a href="<?php echo URL.'comite/internacional' ?>">COMITE INTERNACIONAL</a></li>
+                    <li><a href="<?php echo URL.'comite' ?>">COMITE ORGANIZADOR</a></li>
                   </ul>
                 </li>
                 <li>
