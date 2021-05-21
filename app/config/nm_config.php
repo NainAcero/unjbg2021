@@ -6,13 +6,13 @@
 
     define('LANG','es');                                                            /* Language */
 
-    define('BASEPATH', IS_LOCAL ? '/unjbg2021/' : '__EL BASEPATH EN PRODUCCIÓN__');
+    define('BASEPATH', IS_LOCAL ? '/unjbg2021/' : 'https://unjbg2021.herokuapp.com/');
 
     define('AUTH_SALT', 'NainAcero');                                        /* Sal del Sistema */
 
     define('PORT','80');
 
-    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/unjbg2021/' : '__URL EN PRODUCCIÓN_');
+    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/unjbg2021/' : 'https://unjbg2021.herokuapp.com/');
 
     // rutas de directorios y archivos =>
 
