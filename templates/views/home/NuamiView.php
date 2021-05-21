@@ -2,7 +2,7 @@
 
 <!-- Slider Area -->
 <section class="register-today overlay section"
-  style="background-image:url('<?php echo IMAGES."puerta02.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+  style="background-image:url('<?php echo IMAGES."portada02.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
   <div class="container">
     <div class="row">
       <div class="col-12">
