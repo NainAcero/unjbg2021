@@ -1,14 +1,12 @@
 <?php require_once INCLUDES.'inc_header.php'; ?>
 
 <!-- Slider Area -->
-<section class="register-today overlay section" data-stellar-background-ratio="0.5"
+<section class="register-today overlay section"
   style="background-image:url('<?php echo IMAGES."puerta02.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
-
   <div class="container">
-
     <div class="row">
       <div class="col-12">
-        <div class="course-countdown">
+        <div class="course-countdown" style="position: relative;">
           <div class="coming-course">
             <h2>ENCUENTRO INTERNACIONAL VIII SIN FRONTERAS ACADÉMICAS<span>
               </span> <span>(Modalidad virtual)</span>
@@ -25,15 +23,13 @@
     </div>
 
     <div class="container pt-1  pl-5">
-      <div class="row">
+      <div class="row" style="position: relative;">
 
         <div class="col-lg-4 col-sm-4 mb-4">
           <img src="<?php echo IMAGES.'icons/user.png' ?>"
             class="img-fluid rounded mt-4" style="width:50px;float: left;">
-          <h4 class="text-center text-white" style="margin-top: 10%;font-size:11pt;font-weight: bold;"><a
-            class="ancla" data-ancla="NuestrosPonentes">Expositores <br>
-            nacionales e internacionales</a>
-          </h4>
+          <h4 class="text-center text-white" style="margin-top: 10%;font-size:11pt;font-weight: bold;">Expositores</h4>
+          <h5 class="text-center text-white" style="font-size:11pt">nacionales e internacionales</h5>
         </div>
 
         <div class="col-lg-4 col-sm-4 mb-4">
@@ -56,7 +52,7 @@
 
     <div class="container pt-3 ">
       <p class="text-left title-azul" style="color:white"> Ponentes del Encuentro Internacional :</p>
-      <div class="row">
+      <div class="row" style="position: relative;">
 
         <div class="col-lg-2 col-md-3 col-12  text-center">
           <img src="<?php echo IMAGES.'icons/prueba.jpg' ?>"

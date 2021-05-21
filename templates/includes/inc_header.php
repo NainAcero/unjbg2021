@@ -80,7 +80,7 @@
 <!-- Header -->
 <header class="header" style="position: fixed; top: 0; width: 100%;z-index: 999;">
   <!-- Header Inner -->
-  <div class="header-inner overlay">
+  <div class="header-inner">
     <div class="container">
       <div class="row">
         <div class="col-lg-2 col-12">
@@ -91,7 +91,7 @@
         <!--/ End Logo -->
         <div class="mobile-menu"></div>
       </div>
-      <div class="col-lg-10  col-12">
+      <div class="col-lg-10  col-12 ">
         <div class="menu-bar">
           <nav class="navbar navbar-default">
             <div class="navbar-collapse">
