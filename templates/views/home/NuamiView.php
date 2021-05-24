@@ -4,13 +4,13 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
   
-        <section class="register-today overlay section home-slider"
+        <section class="register-today overlay section home-slider "
           style="background-image:url('<?php echo IMAGES."imagen10.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
-          <div class="container">
+          <div class="container ">
 						<div class="row">
-							<div class="col-lg-7 col-md-10 col-12">
+							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
-								<div class="slider-content">
+								<div class="slider-content ">
 									<h1 class="slider-title"><span>(Modalidad virtual)</span>VIII ENCUENTRO INTERNACIONAL ACADÉMICAS SIN FRONTERAS</h1>
 						
                   <div class="coming-time">
