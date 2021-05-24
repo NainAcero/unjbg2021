@@ -68,7 +68,9 @@
 <script src="<?php echo JS.'colors.js' ?>"></script>
 <!-- Popper JS-->
 <script src="<?php echo JS.'popper.min.js' ?>"></script>
-<script src="<?php echo JS.'bootstrap.min.js' ?>"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" 
+  integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
 <!-- Owl Carousel JS-->
 <script src="<?php echo JS.'owl.carousel.min.js' ?>"></script>
 <!-- Final Countdown JS not used -->
@@ -103,6 +105,11 @@
 <script src="<?php echo JS.'jquery.countdown.min.js' ?>"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
 
+<script>
+  $('.carousel').carousel({
+    interval: 5000
+  })
+</script>
 </body>
 
 </html>

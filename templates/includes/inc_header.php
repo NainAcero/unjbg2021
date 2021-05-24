@@ -28,6 +28,14 @@
       padding: 1em 1.5em;
     }
 
+    .text-align-justify {
+      text-align: justify
+    }
+
+    .color-primary {
+      color: #FFB000 !important;
+    }
+
     @media (max-width: 1000px) {
       .button-container a {
         bottom: 4em;
@@ -48,7 +56,8 @@
 <!-- ----------Styles------ -->
 
 <!-- Bootstrap CSS -->
-<link rel="stylesheet" href="<?php echo CSS.'bootstrap.min.css' ?>">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 <!-- Nice Select CSS -->
 <link rel="stylesheet" href="<?php echo CSS.'niceselect.css' ?>">
 <!-- Fancy Box CSS -->
@@ -106,7 +115,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="#"><i class="fa fa-suitcase"></i>INFORMACIÓN</a>
+                  <a href="#"><i class="fa fa-clone"></i>INFORMACIÓN</a>
                   <ul class="dropdown">
                     <li><a href="#">INSCRIPCIONES</a></li>
                     <li><a href="#">PONENCIAS</a></li>
@@ -114,8 +123,8 @@
                     <li><a href="#">INVESTIGACIÓN</a></li>
                   </ul>
                 </li>
-                <li><a href="#"><i class="fa fa-home"></i>ANTECEDENTES</a></li>
-                <li><a href="#"><i class="fa fa-home"></i>VIDEOS Y FOTOS</a></li>
+                <li><a href="#"><i class="fa fa-bullhorn"></i>ANTECEDENTES</a></li>
+                <li><a href="#"><i class="fas fa-images"></i>VIDEOS Y FOTOS</a></li>
               </ul>
               <!-- End Main Menu -->
             </div>
