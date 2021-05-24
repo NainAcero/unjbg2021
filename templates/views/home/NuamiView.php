@@ -8,7 +8,7 @@
       <div class="col-12">
         <div class="course-countdown" style="position: relative;">
           <div class="coming-course">
-            <h2>ENCUENTRO INTERNACIONAL VIII SIN FRONTERAS ACADÉMICAS<span>
+            <h2>VIII ENCUENTRO INTERNACIONAL SIN FRONTERAS ACADÉMICAS<span>
               </span> <span>(Modalidad virtual)</span>
             </h2>
           </div>
