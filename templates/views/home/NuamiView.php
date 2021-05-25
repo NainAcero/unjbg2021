@@ -34,6 +34,43 @@
     <div class="carousel-item">
       <section class="register-today overlay section home-slider"
             style="background-image:url('<?php echo IMAGES."imagen20.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+          
+            <div class="container">
+						<div class="row">
+							<div class="col-lg-7 col-md-10 col-12 ">
+								<!-- Slider Content -->
+								<div class="slider-content ">
+									<h1 class="slider-title"><span>(Modalidad virtual)</span>PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES</h1>
+									<p class="slider-text">Ámbitos: Educación, economía, salud, medio ambiente, ciencias y tecnología, social, político y psicológico</p>
+                  <!-- Button -->
+									<div class="button">
+										<a href="about.html" class="btn white">INSCRIPCIONES</a>
+									</div>
+									<!--/ End Button -->
+								</div>
+								<!--/ End Slider Content -->
+							</div>
+						</div>
+					</div>
+      </section>
+    </div>
+    <div class="carousel-item">
+      <section class="register-today overlay section home-slider"
+            style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+          <div class="container ">
+						<div class="row">
+							<div class="col-lg-7 col-md-10 col-12 ">
+								<!-- Slider Content -->
+								<div class="slider-content " style="margin-top: 30px">
+									<h1 class="slider-title"><span>(Universidad Nacional Jorge Basadre Grohmann)</span>SOCIEDAD LÍQUIDA, DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
+                  <div class="coming-time">
+                    <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
+                  </div>
+								</div>
+								<!--/ End Slider Content -->
+							</div>
+						</div>
+					</div>
       </section>
     </div>
   </div>
@@ -52,57 +89,58 @@
 <section class="courses section">
   <div class=" container">
     <div class="row">
-      <div class="col-lg-7 col-md-12 col-12" style="margin:4% 0%;">
+      <div class="col-lg-8 col-md-12 col-12" style="margin:4% 0%;">
         <div class="text-content">
           <h4 class="text-center mb-3 mt-2"> INVITACIÓN</h4>
           <p class="text-align-justify">
-            “Nihil novum sub sole”, nada nuevo bajo el sol. La humanidad ha pasado
-            por crisis sanitarias, con sus consecuentes efectos y en repetidas veces a
-            lo largo de su historia, pero nos olvidamos que la pandemia del siglo XXI
-            recién lleva un año. Parece que no nos abandonará este año 2021, a pesar
-            de las restricciones de movilidad mundial y las estrictas normas 
-            sanitarias. La primera, la segunda, y la tercera ola de la COVID-19, 
-            y sus variantes, nos han azotado implacablemente. 
-            Las vacunas están comenzando a generar la esperanza de crear el “efecto inmunidad de rebaño”
-            o “ver la luz al final del túnel” .
-          </p>
+          “Nihil novum sub sole”, nada nuevo bajo el sol. La humanidad ha pasado 
+          por crisis sanitarias, con sus consecuentes efectos y en repetidas veces a 
+          lo largo de su historia, pero nos olvidamos que la pandemia del siglo XXI 
+          recién lleva un año. Parece que no nos abandonará este año 2021, a pesar 
+          de las restricciones de movilidad mundial y las estrictas normas 
+          sanitarias. La primera, la segunda, y la tercera ola de la COVID-19, y sus variantes, nos han azotado implacablemente. Las vacunas están comenzando a generar la esperanza de crear el “efecto inmunidad de rebaño” 
+          o “ver la luz al final del túnel” .
+          </p><br>
           <p class="text-align-justify">
-            Sin embargo, son muchas incertidumbres para una sociedad que ya
-            presentaba grandes y globales problemas de
-            desigualdades. En este contexto los problemas se han
-            agudizado y visibilizado más aún. Solamente por mencionar algunos que
-            se tienen a la vista: el aumento de la violencia de género e intrafamiliar, la
-            crisis migratoria, el empobrecimiento acelerado de los países
-            subdesarrollados, las brechas digitales entre países, el aumento de
-            problemas mentales en la juventud
-            y la falta de solidaridad.
-          </p>
+          Sin embargo, son muchas incertidumbres para una sociedad que ya 
+          presentaba grandes y globales problemas de 
+          desigualdades. En este contexto los problemas se han 
+          agudizado y visibilizado más aún. Solamente por mencionar algunos que 
+          se tienen a la vista: el aumento de la violencia de género e intrafamiliar, la 
+          crisis migratoria, el empobrecimiento acelerado de los países 
+          subdesarrollados, las brechas digitales entre países, el aumento de 
+          problemas mentales en la juventud
+          y la falta de solidaridad.
+          </p><br>
           <p class="text-align-justify">
-            Nuevamente la Red de Académicas Sin Fronteras aportará el 2021 con
-            diagnósticos, estudios, investigaciones y reflexiones para procurar una
-            mejor sociedad. Este año le corresponderá la responsabilidad a las
-            académicas de Tacna - Perú, la organización del VIII Encuentro Internacional, que será liderado por la Universidad Nacional Jorge Basadre
-            Grohmann.
-          </p>
+          Nuevamente la Red de Académicas Sin Fronteras aportará el 2021 con 
+          diagnósticos, estudios, investigaciones y reflexiones para procurar una 
+          mejor sociedad. Este año le corresponderá la responsabilidad a las 
+          académicas de Tacna - Perú, la organización del VIII Encuentro Internacional, que será liderado por la Universidad Nacional Jorge Basadre 
+          Grohmann.
+          </p><br>
           <p class="text-align-justify">
-          El VIII Encuentro Internacional Académicas Sin Fronteras, Tacna - Perú 2021
-          se realizará en la modalidad virtual en octubre 2021, con la “Sociedad
+          El VIII Encuentro Internacional Académicas Sin Fronteras, Tacna - Perú 2021 
+          se realizará en la modalidad virtual en octubre 2021, con la “Sociedad 
           Líquida: desafíos y estrategias para los nuevos tiempos”.
           Las invitamos a presentarnos sus temas de interés a:
-          académicasinfronteras@gmail.com
+          <a href="#">académicasinfronteras@gmail.com</a>
           </p>
         </div>
       </div>
 
-      <div class="col-lg-5 col-md-12 col-12 text-center; mt-5">
-        <img src="<?php echo IMAGES.'presentacion.PNG' ?>" class="rounded mx-auto d-block w-50">
-        <br>
-        <p class="text-center"><b>Ansonia Lillo Tor</b></p>
-        <p class="text-align-justify px-5">
-          Doctora en Administración de Universidad Politécnica de Cataluña, Barcelona España Ingeniera Civil 
-          de Universidad de Chile Rectora de la Sede Arica Universidad Santo Tomás Chile Presidenta de Red 
-          Académicas Sin Fronteras 
-        </p>
+      <div class="col-lg-4 col-md-12 col-12 text-center; mt-5">
+        <div class="card ">
+          <img class="card-img-top px-5 py-4 rounded mx-auto d-block " src="<?php echo IMAGES.'presentacion.PNG' ?>" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title text-center">Dra. Ansonia Lillo Tor</h5>
+            <p class="text-align-justify">
+              Doctora en Administración de Universidad Politécnica de Cataluña, Barcelona España Ingeniera Civil 
+              de Universidad de Chile Rectora de la Sede Arica Universidad Santo Tomás Chile Presidenta de Red 
+              Académicas Sin Fronteras 
+            </p>
+          </div>
+        </div>
       </div>
     </div>
   </div>

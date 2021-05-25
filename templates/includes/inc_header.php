@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title><?php echo isset($d->title) ? $d->title .' - '.get_sitename() : 'Bienvenido - '.get_sitename()  ?></title>
+  <title><?php echo isset($d->title) ? $d->title : 'Bienvenido'  ?></title>
 
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
@@ -34,6 +34,24 @@
 
     .color-primary {
       color: #FFB000 !important;
+    }
+
+    .chip {
+      display: inline-block;
+      padding: 0 25px;
+      height: 50px;
+      font-size: 16px;
+      line-height: 50px;
+      border-radius: 25px;
+      background-color: #f1f1f1;
+    }
+
+    .chip img {
+      float: left;
+      margin: 0 10px 0 -25px;
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
     }
 
     @media (max-width: 1000px) {
