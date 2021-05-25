@@ -27,7 +27,7 @@
 							<div class="col-lg-7 col-md-10 col-12 " >
 								<!-- Slider Content -->
 								<div class="slider-content " style="margin-top: 0px; ">
-                  <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.6);">VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS<span><strong>SEDE: PERÚ</strong></span></h1>
+                  <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.6);">VIII ENCUENTRO INTERNACIONAL ACADÉMICAS SIN FRONTERAS<span><strong>SEDE: PERÚ</strong></span></h1>
                 
 									<!--/ End Button -->
                   <div class="coming-time">

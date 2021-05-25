@@ -370,7 +370,7 @@ $(".ancla").click(function (e) {
 				finalDate = $(this).data('countdown');
 			$this.countdown(finalDate, function (event) {
 				$this.html(event.strftime(
-					'<div class="cdown"><span class="days"><strong>%-D</strong><p>Días</p></span></div><div class="cdown"><span class="hour"><strong> %-H</strong><p>Horas</p></span></div> <div class="cdown"><span class="minutes"><strong>%M</strong> <p>Minutos</p></span></div><div class="cdown"><span class="second"><strong> %S</strong><p>Segundos</p></span></div>'
+					'<div class="cdown"><span class="days"><strong>%-D</strong><p>día(s)</p></span></div><div class="cdown"><span class="hour"><strong> %-H</strong><p>hora(s)</p></span></div> <div class="cdown"><span class="minutes"><strong>%M</strong> <p>minuto(s)</p></span></div><div class="cdown"><span class="second"><strong> %S</strong><p>segundo(s)</p></span></div>'
 				));
 			});
 		});
