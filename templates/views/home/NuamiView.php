@@ -18,8 +18,8 @@
                   </div>
 									<!-- Button -->
 									<div class="button">
-										<a href="#" class="btn white">REGISTRARSE</a>
-										<a href="#" class="btn white primary">INGRESAR</a>
+										<!-- <a href="#" class="btn white">REGISTRARSE</a> -->
+										<a href="https://www.facebook.com/UNJBG.ocim" target="_black" class="btn white">INGRESAR</a>
 									</div>
 									<!--/ End Button -->
 								</div>
