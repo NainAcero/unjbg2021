@@ -36,22 +36,8 @@
       color: #FFB000 !important;
     }
 
-    .chip {
-      display: inline-block;
-      padding: 0 25px;
-      height: 50px;
-      font-size: 16px;
-      line-height: 50px;
-      border-radius: 25px;
-      background-color: #f1f1f1;
-    }
-
-    .chip img {
-      float: left;
-      margin: 0 10px 0 -25px;
-      height: 50px;
-      width: 50px;
-      border-radius: 50%;
+    .background-black {
+      background-color: #52504B !important;
     }
 
     @media (max-width: 1000px) {
@@ -113,7 +99,7 @@
         <div class="col-lg-2 col-12">
         <!-- Logo -->
         <div class="logo">
-          <a href="/"><img src="<?php echo IMAGES.'logo02.png'?>" style="width: 200px !important; margin: 10px 10px;" alt="ENCUENTRO INTERNACIONAL"></a>
+          <a href="<?php echo URL ?>"><img src="<?php echo IMAGES.'logo02.png'?>" style="width: 200px !important; margin: 10px 10px;" alt="ENCUENTRO INTERNACIONAL"></a>
         </div>
         <!--/ End Logo -->
         <div class="mobile-menu"></div>
@@ -135,13 +121,13 @@
                 <li>
                   <a href="#"><i class="fa fa-clone"></i>INFORMACIÓN</a>
                   <ul class="dropdown">
-                    <li><a href="#">INSCRIPCIONES</a></li>
+                    <li><a href="<?php echo URL.'inscripcion' ?>">INSCRIPCIONES</a></li>
                     <li><a href="#">PONENCIAS</a></li>
                     <li><a href="#">ENSAYOS</a></li>
                     <li><a href="#">INVESTIGACIÓN</a></li>
                   </ul>
                 </li>
-                <li><a href="#"><i class="fa fa-bullhorn"></i>ANTECEDENTES</a></li>
+                <li><a href="<?php echo URL.'antecedente' ?>"><i class="fa fa-bullhorn"></i>ANTECEDENTES</a></li>
                 <li><a href="#"><i class="fas fa-images"></i>VIDEOS Y FOTOS</a></li>
               </ul>
               <!-- End Main Menu -->

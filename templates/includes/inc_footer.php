@@ -5,7 +5,7 @@
       <div class="row"> 
         <div class="col-lg-4 col-md-6 col-12">
           <!-- About -->
-          <div class="single-widget about">
+          <div class="single-widget about p-1">
             <h2>INSCRIPCIONES</h2>  
             <ul class="list" style="position: relative;">
               <li><i class="fa fa-phone fa-lg"></i> Teléfono: 969 726 090 </li>
@@ -16,31 +16,31 @@
           </div>
         </div>
 
-        <div class="col-lg-3 col-md-6 col-12">
+        <div class="col-lg-4 col-md-6 col-12">
           <!-- About -->
           <div class="single-widget about">
-            <h2>EJES TEMÁTICOS</h2>  
+            <h2 >Organizador</h2> 
             <ul class="list" style="position: relative;" >
-              <li>Educación</li>
-              <li>Economía</li>
-              <li>Salud</li>
-              <li>Social</li>
+              <li>Universidad Nacional Jorge Basadre Grohmann</li>
+            </ul>
+            <ul class="list" style="position: relative;" >
+              <li><b>29 y 30 de octubre</b></li>
             </ul>
           </div>
         </div>
 
-        <div class="col-lg-3 col-md-6 col-12">
+        <div class="col-lg-4 col-md-6 col-12">
           <!-- About -->
-          <div class="single-widget about ">
-            <h2 style="color: transparent">EJES TEMÁTICOS</h2> 
+          <div class="single-widget about">
+            <h2 >Aliados estratégicos</h2> 
             <ul class="list" style="position: relative;" >
-              <li>Político</li>
-              <li>Psicológico</li>
-              <li>Medio ambiente</li>
-              <li>Ciencia y tecnología</li>
+              <li>Universidad Santo Tomás – Chile</li>
+              <li>Universidad Privada de Tacna - Perú</li>
+              <li>Universidad Mayor de San Simón - Bolivia</li>
             </ul>
           </div>
         </div>
+
       </div>
     </div>
   </div>
@@ -52,7 +52,7 @@
         <div class="col-12">
           <!-- Copyright -->
           <div class="copyright">
-            <p>© Copyright 2021. ENCUENTRO INTERNACIONAL VIII SIN FRONTERAS</p>
+            <p>© Copyright 2021. VIII Encuentro Internacional de Académicas Sin Fronteras</p>
           </div>
         </div>
       </div>

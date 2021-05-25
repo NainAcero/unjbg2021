@@ -11,15 +11,15 @@
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
 								<div class="slider-content ">
-									<h1 class="slider-title"><span>(Modalidad virtual)</span>VIII ENCUENTRO INTERNACIONAL ACADÉMICAS SIN FRONTERAS</h1>
+									<h1 class="slider-title"><span>(Modalidad virtual)</span>VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS</h1>
 						
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
                   </div>
 									<!-- Button -->
 									<div class="button">
-										<a href="about.html" class="btn white">REGISTRARSE</a>
-										<a href="courses.html" class="btn white primary">INGRESAR</a>
+										<a href="#" class="btn white">REGISTRARSE</a>
+										<a href="#" class="btn white primary">INGRESAR</a>
 									</div>
 									<!--/ End Button -->
 								</div>
@@ -44,7 +44,7 @@
 									<p class="slider-text">Ámbitos: Educación, economía, salud, medio ambiente, ciencias y tecnología, social, político y psicológico</p>
                   <!-- Button -->
 									<div class="button">
-										<a href="about.html" class="btn white">INSCRIPCIONES</a>
+										<a href="<?php echo URL.'inscripcion' ?>" class="btn white">INSCRIPCIONES</a>
 									</div>
 									<!--/ End Button -->
 								</div>

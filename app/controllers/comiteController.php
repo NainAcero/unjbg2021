@@ -5,10 +5,93 @@
         }
 
         public function index(){
-            View::render('Organizador');
+            $data = [
+                [
+                    "nombre" => "Dra. Gema Sologuren García",
+                    "comision" => "Comisión Organización y Logística",
+                    "foto" => "imagen01.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Dra. Rosa Requelme Ibañez",
+                    "comision" => "Comisión de Comunicaciones",
+                    "foto" => "imagen02.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Mgr. Carmen Salleres Sanchez",
+                    "comision" => "Comisión de Protocolo",
+                    "foto" => "imagen03.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Dra. Mariela Bobadilla Quispe",
+                    "comision" => "Comisión Tecnológica",
+                    "foto" => "imagen04.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Mgr. Silvia Muñarriz O’Phelan",
+                    "comision" => "Comisión Académica",
+                    "foto" => "imagen05.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Mgr. Susana Fernández Maldonado",
+                    "comision" => "Comisión de Economía",
+                    "foto" => "imagen06.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Mtro. Inés Jiménez García",
+                    "comision" => "Comisión de Ética",
+                    "foto" => "imagen07.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Dra. Carla Mori Fuentes",
+                    "comision" => "Comisión de Cultura",
+                    "foto" => "imagen08.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+            ];
+
+            View::render('Organizador', $data);
         }
 
         public function internacional(){
-            View::render('Internacional');
+            $data = [
+                [
+                    "nombre" => "Dra. Gema Sologuren García",
+                    "comision" => "Comisión Organización y Logística",
+                    "foto" => "imagen01.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Dra. Rosa Requelme Ibañez",
+                    "comision" => "Comisión de Comunicaciones",
+                    "foto" => "imagen02.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Mgr. Carmen Salleres Sanchez",
+                    "comision" => "Comisión de Protocolo",
+                    "foto" => "imagen03.PNG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ]
+            ];
+
+            View::render('Internacional', $data);
         }
     }

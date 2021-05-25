@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <h4 class="c-title"><a href="#">Dra. Ansonia Lillo Tor</a></h4>
-                        <p>Presidenta de la Red Académicas</p>
+                        <p class="text-center">Presidenta de la Red Académicas Sin Fronteras - CHILE</p>
                     </div>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                             </div>
                         </div>
                         <h4 class="c-title"><a href="#">Dra. Doris Goicochea Parks</a></h4>
-                        <p>Presidenta del Comité Organizador</p>
+                        <p class="text-center">Presidenta del Comité Organizador Perú-UNJBG 2021 - PERÚ</p>
                     </div>
                 </div>
             </div>
@@ -74,6 +74,7 @@
                             </div>
                         </div>
                         <h4 class="c-title"><a href="#">Dra. Juana Bedoya Chanove</a></h4>
+                        <p class="text-center">UPT - PERÚ</p>
                     </div>
                 </div>
             </div>
@@ -94,6 +95,7 @@
                             </div>
                         </div>
                         <h4 class="c-title"><a href="#">Mgr. Carmen Gloria del Rosario Aguilar Solar</a></h4>
+                        <p class="text-center">UMSS - BOLIVIA</p>
                     </div>
                 </div>
             </div>
