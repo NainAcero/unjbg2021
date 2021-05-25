@@ -98,6 +98,7 @@
                     <a href="https://www.facebook.com/UNJBG.ocim" target="_blank" class="btn white mt-1 "><i class="fa fa-facebook mr-2"></i> FACEBOOK</a>
                     <a href="https://www.instagram.com/unibasadre/" target="_blank" class="btn white mt-1"><i class="fab fa-instagram mr-2"></i> INSTAGRAM</a>
                     <a href="http://www.unjbg.edu.pe/" target="_blank" class="btn white mt-1"><i class="fas fa-globe mr-2"></i> WEB SITE</a>
+                    <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" target="_blank" class="btn white mt-1 primary"><i class="fas fa-arrow-circle-right"></i> INSCRIPCIONES</a>
                 </div>
                 </div>
             </div>

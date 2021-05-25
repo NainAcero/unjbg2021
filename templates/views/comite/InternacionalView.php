@@ -73,7 +73,7 @@
                                 <h4 class="title">UPT - PERÚ</h4>
                             </div>
                         </div>
-                        <h4 class="c-title"><a href="#">Dra. Juana Bedoya Chanove</a></h4>
+                        <h4 class="c-title"><a href="#">Mgr. Juana Bedoya Chanove</a></h4>
                         <p class="text-center">UPT - PERÚ</p>
                     </div>
                 </div>
