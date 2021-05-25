@@ -44,7 +44,7 @@
 									<p class="slider-text">Ámbitos: Educación, economía, salud, medio ambiente, ciencias y tecnología, social, político y psicológico</p>
                   <!-- Button -->
 									<div class="button">
-										<a href="<?php echo URL.'inscripcion' ?>" class="btn white">INSCRIPCIONES</a>
+										<a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" target="_blank" class="btn white">INSCRIPCIONES</a>
 									</div>
 									<!--/ End Button -->
 								</div>
