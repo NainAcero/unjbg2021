@@ -88,7 +88,6 @@
 </head>
 
 <body style="overflow-x: hidden !important;">
-<!-- ends inc_header.php -->
 
 <!-- Header -->
 <header class="header" style="position: fixed; top: 0; width: 100%;z-index: 999;">

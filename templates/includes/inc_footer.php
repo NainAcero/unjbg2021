@@ -109,6 +109,14 @@
   $('.carousel').carousel({
     interval: 5000
   })
+
+  $( document ).ready(function() {
+      $('#myModal').modal('toggle')
+  });
+
+  setTimeout(function(){
+    $('#myModal').modal('hide')
+  },10000);
 </script>
 </body>
 

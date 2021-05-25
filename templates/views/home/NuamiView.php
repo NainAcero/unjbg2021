@@ -1,8 +1,49 @@
 <?php require_once INCLUDES.'inc_header.php'; ?>
+<!-- Modal HTML -->
+<div id="myModal" class="modal fade">
+  <div class="modal-dialog modal-lg modal-dialog-centered" style="max-width: 600px">
+      <div class="modal-content">
+          <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          </div>
+          <div class="modal-body">
+          <img src="<?php echo IMAGES.'inicio.jpeg'?>" class="img-fluid img-thumbnail">
+          </div>
+          
+      </div>
+  </div>
+</div>
+<!-- ends inc_header.php -->
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active">
+
+  <div class="carousel-item active">
+      <section class="register-today overlay section home-slider"
+            style="background-image:url('<?php echo IMAGES."imagen20.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+          
+            <div class="container">
+						<div class="row">
+							<div class="col-lg-7 col-md-10 col-12 " >
+								<!-- Slider Content -->
+								<div class="slider-content " style="margin-top: 0px">
+                  <h1 class="slider-title"><span>Sede: Perú</span>VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS</h1>
+              
+									<!--/ End Button -->
+                  <div class="coming-time">
+                    <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
+                  </div>
+                  <br>
+                  <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary" target="_black">INSCRIPCIONES</a>
+								</div>
+								<!--/ End Slider Content -->
+							</div>
+						</div>
+					</div>
+      </section>
+    </div>
+
+    <div class="carousel-item ">
   
         <section class="register-today overlay section home-slider "
           style="background-image:url('<?php echo IMAGES."imagen10.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
@@ -11,8 +52,9 @@
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
 								<div class="slider-content ">
-									<h1 class="slider-title"><span>(Modalidad virtual)</span>VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS</h1>
-						
+								
+                <h1 class="slider-title"><span>Sede: Perú</span>PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES</h1>
+			
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
                   </div>
@@ -31,29 +73,7 @@
 
     </div>
 
-    <div class="carousel-item">
-      <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."imagen20.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
-          
-            <div class="container">
-						<div class="row">
-							<div class="col-lg-7 col-md-10 col-12 ">
-								<!-- Slider Content -->
-								<div class="slider-content ">
-									<h1 class="slider-title"><span>(Modalidad virtual)</span>PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES</h1>
-									<p class="slider-text">Ámbitos: Educación, economía, salud, medio ambiente, ciencias y tecnología, social, político y psicológico</p>
-                  <!-- Button -->
-									<div class="button">
-										<a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" target="_blank" class="btn white">INSCRIPCIONES</a>
-									</div>
-									<!--/ End Button -->
-								</div>
-								<!--/ End Slider Content -->
-							</div>
-						</div>
-					</div>
-      </section>
-    </div>
+
     <div class="carousel-item">
       <section class="register-today overlay section home-slider"
             style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
@@ -62,7 +82,7 @@
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
 								<div class="slider-content " style="margin-top: 30px">
-									<h1 class="slider-title"><span>(Universidad Nacional Jorge Basadre Grohmann)</span>SOCIEDAD LÍQUIDA, DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
+									<h1 class="slider-title"><span>Universidad Nacional Jorge Basadre Grohmann</span>SOCIEDAD LÍQUIDA, DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
                   </div>
