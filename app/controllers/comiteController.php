@@ -55,13 +55,13 @@
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
-                [
-                    "nombre" => "Dra. Carla Mori Fuentes",
-                    "comision" => "Comisión de Cultura",
-                    "foto" => "imagen08.PNG",
-                    "fotoPais" => "peru.png",
-                    "nacionalidad" => "Peruana"
-                ],
+                // [
+                //     "nombre" => "Dra. Carla Mori Fuentes",
+                //     "comision" => "Comisión de Cultura",
+                //     "foto" => "imagen08.PNG",
+                //     "fotoPais" => "peru.png",
+                //     "nacionalidad" => "Peruana"
+                // ],
             ];
 
             View::render('Organizador', $data);
