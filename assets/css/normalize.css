@@ -506,7 +506,7 @@ big {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #FFAA00;
+	background: #1593C6;
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
 	-webkit-transform-origin: 50%;
@@ -595,7 +595,7 @@ big {
 	display: inline-block;
 	text-align: center;
 	border-radius: 100%;
-	background: #FFAA00;
+	background: #1593C6;
 	color: #fff;
 	top: 0;
 	position: relative;

@@ -26,15 +26,15 @@
 						<div class="row">
 							<div class="col-lg-7 col-md-10 col-12 " >
 								<!-- Slider Content -->
-								<div class="slider-content " style="margin-top: 0px">
-                  <h1 class="slider-title"><span>Sede: Perú</span>VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS</h1>
-              
+								<div class="slider-content " style="margin-top: 0px; ">
+                  <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.6);">VIII ENCUENTRO INTERNACIONAL DE ACADÉMICAS SIN FRONTERAS<span><strong>SEDE: PERÚ</strong></span></h1>
+                
 									<!--/ End Button -->
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
                   </div>
                   <br>
-                  <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary" target="_black">INSCRIPCIONES</a>
+                  <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
 								</div>
 								<!--/ End Slider Content -->
 							</div>
@@ -53,7 +53,7 @@
 								<!-- Slider Content -->
 								<div class="slider-content ">
 								
-                <h1 class="slider-title"><span>Sede: Perú</span>PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES</h1>
+                <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.7);">PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES<span><strong>SEDE: PERÚ</strong></span></h1>
 			
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
@@ -82,7 +82,7 @@
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
 								<div class="slider-content " style="margin-top: 30px">
-									<h1 class="slider-title"><span>Universidad Nacional Jorge Basadre Grohmann</span>SOCIEDAD LÍQUIDA, DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
+									<h1 class="slider-title" style="background: rgba(21, 147, 198, 0.8);">SOCIEDAD LÍQUIDA: DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
                   </div>
@@ -167,61 +167,3 @@
 </section>
 
 <?php require_once INCLUDES.'inc_footer.php'; ?>
-
-
-
-
-<!-- <div class="carousel-item active">
-
-<section class="register-today overlay section"
-  style="background-image:url('<?php echo IMAGES."imagen10.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="course-countdown" style="position: relative;">
-          <div class="coming-course ">
-            <h2 class="color-primary">VIII ENCUENTRO INTERNACIONAL ACADÉMICAS SIN FRONTERAS<span>
-              </span> <span class="color-primary">(Modalidad virtual)</span>
-            </h2>
-          </div>
-          <div class="coming-time">
-            <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
-          </div>
-          <div class="text-center mt-4">
-            <button type="button" class="btn white primary" >Ingresar</button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container pt-1  pl-5 fixed-bottom">
-      <div class="row" style="position: relative;">
-
-        <div class="col-lg-4 col-sm-4 mb-4"  >
-          <img src="<?php echo IMAGES.'icons/user.png' ?>"
-            class="img-fluid rounded mt-4" style="width:50px;float: left;">
-          <h4 class="text-center text-blue" style="margin-top: 10%;font-size:11pt;font-weight: bold;">Expositores</h4>
-          <h5 class="text-center text-white" style="font-size:11pt">nacionales e internacionales</h5>
-        </div>
-
-        <div class="col-lg-4 col-sm-4 mb-4" >
-          <img src="<?php echo IMAGES.'icons/clock.png' ?>"
-              class="img-fluid rounded mt-4" style="width:50px;float: left;">
-          <h4 class="text-center text-white" style="margin-top: 10%;font-size:11pt;font-weight: bold;">Fecha del Evento</h4>
-          <h5 class="text-center text-white" style="font-size:11pt">27 de Mayo del 2021</h5>
-        </div>
-
-        <div class="col-lg-4 col-sm-4 mb-4" >
-            <img src="<?php echo IMAGES.'icons/live.png' ?>" class="img-fluid rounded mt-4"
-                style="width:50px;float: left;">
-            <h4 class="text-center text-white" style="margin-top: 10%;font-size:11pt;font-weight: bold;">
-                Transmisión</h4>
-            <h5 class="text-center text-white" style="font-size:11pt">vía Facebook y Youtube</h5>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</section>
-
-</div> -->
