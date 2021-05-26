@@ -5,7 +5,7 @@
     }
 
     function get_sitename(){
-        return 'Nuami Framework';
+        return 'Académicas Sin Fronteras';
     }
 
     function now(){

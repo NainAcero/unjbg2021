@@ -7,7 +7,7 @@
         public function index(){
             $data =
             [
-                'title' => 'UNJBG',
+                'title' => 'Académicas Sin Fronteras',
                 'bg'    =>  'dark'
             ];
             View::render('Nuami', $data);
@@ -16,7 +16,7 @@
         function test(){
             $data =
             [
-                'title' => 'Nuami Framework',
+                'title' => 'Académicas Sin Fronteras',
                 'bg'    =>  'dark'
             ];
             View::render('test', $data);
