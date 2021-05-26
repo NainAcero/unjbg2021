@@ -7,9 +7,13 @@
   <title><?php echo isset($d->title) ? $d->title : 'Bienvenido'  ?></title>
 
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="keywords" content="Educación, economía, salud, medio ambiente, ciencia y tecnología, social, político , psicológico,  university, universidad, SOCIEDAD LÍQUIDA: DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS, VIII Encuentro Internacional de Académicas Sin Fronteras, Universidad Nacional Jorge Basadre Grohmann, Universidad Santo Tomás – Chile, Universidad Privada de Tacna - Perú, Universidad Mayor de San Simón - Bolivia">
+  <meta name="description" content="VIII Encuentro Internacional de Académicas Sin Fronteras.">
+  <meta property="og:image" content='<?php echo IMAGES."imagen20.jpg" ?>'>
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+
 
   <style>
     .button-container {
