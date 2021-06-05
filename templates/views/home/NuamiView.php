@@ -31,7 +31,7 @@
                 
 									<!--/ End Button -->
                   <div class="coming-time">
-                    <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
+                    <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
                   </div>
                   <br>
                   <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
@@ -56,7 +56,7 @@
                 <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.7);">PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES<span><strong>SEDE: PERÚ</strong></span></h1>
 			
                   <div class="coming-time">
-                    <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
+                    <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
                   </div>
 									<!-- Button -->
 									<div class="button">
@@ -84,7 +84,7 @@
 								<div class="slider-content " style="margin-top: 30px">
 									<h1 class="slider-title" style="background: rgba(21, 147, 198, 0.8);">SOCIEDAD LÍQUIDA: DESAFÍOS Y ESTRATEGIAS PARA LOS NUEVOS TIEMPOS</h1>
                   <div class="coming-time">
-                    <div class="clearfix" data-countdown="2021/05/27 11:00:00"></div>
+                    <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
                   </div>
 								</div>
 								<!--/ End Slider Content -->
