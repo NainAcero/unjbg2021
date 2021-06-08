@@ -20,7 +20,7 @@
 
   <div class="carousel-item active">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."imagen20.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."wallpaper_03_v2.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
           
             <div class="container">
 						<div class="row">
@@ -34,7 +34,6 @@
                     <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
                   </div>
                   <br>
-                  <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
 								</div>
 								<!--/ End Slider Content -->
 							</div>
@@ -61,7 +60,7 @@
 									<!-- Button -->
 									<div class="button">
 										<!-- <a href="#" class="btn white">REGISTRARSE</a> -->
-										<a href="https://www.facebook.com/UNJBG.ocim" target="_black" class="btn white primary">INGRESAR</a>
+                    <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
 									</div>
 									<!--/ End Button -->
 								</div>
@@ -89,7 +88,9 @@
 								</div>
 								<!--/ End Slider Content -->
 							</div>
-						</div>
+            </div>  
+            <br>
+            <a href="https://www.facebook.com/UNJBG.ocim" target="_black" class="btn white primary">INGRESAR</a>
 					</div>
       </section>
     </div>
