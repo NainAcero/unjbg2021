@@ -67,6 +67,20 @@
     </div>
 
     <div class="carousel-item ">
+      <section class="register-today overlay section home-slider"
+            style="background-image:url('<?php echo IMAGES."wallpaper_05.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+          
+            <div class="container">
+						<div class="row">
+							<div class="col-lg-7 col-md-10 col-12 " >
+              
+							</div>
+						</div>
+					</div>
+      </section>
+    </div>
+
+    <div class="carousel-item ">
   
         <section class="register-today overlay section home-slider "
           style="background-image:url('<?php echo IMAGES."wallpaper_04.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
