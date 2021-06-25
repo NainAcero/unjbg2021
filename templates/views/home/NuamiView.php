@@ -68,7 +68,7 @@
 
     <div class="carousel-item ">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."wallpaper_05.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."v_wallpaper_01.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
           
             <div class="container">
 						<div class="row">
@@ -83,12 +83,12 @@
     <div class="carousel-item ">
   
         <section class="register-today overlay section home-slider "
-          style="background-image:url('<?php echo IMAGES."wallpaper_04.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+          style="background-image:url('<?php echo IMAGES."v_wallpaper_02.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
           <div class="container ">
 						<div class="row">
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
-								<div class="slider-content ">
+								<div class="slider-content " style="margin-top: 0px; ">
 								
                 <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.7);">PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES<span><strong>SEDE: PERÚ</strong></span></h1>
 			

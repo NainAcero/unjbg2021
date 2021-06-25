@@ -55,6 +55,13 @@
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
+                [
+                    "nombre" => "Arq. Beatriz Vargas Bernuy",
+                    "comision" => "Comisión de Cultura",
+                    "foto" => "imagen09.JPEG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
                 // [
                 //     "nombre" => "Dra. Carla Mori Fuentes",
                 //     "comision" => "Comisión de Cultura",
