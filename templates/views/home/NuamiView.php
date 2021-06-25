@@ -14,13 +14,14 @@
   </div>
 </div>
 <!-- ends inc_header.php -->
+<br><br><br>
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
 
   <div class="carousel-item active">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."wallpaper_01.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."v_wallpaper_03.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           
             <div class="container">
 						<div class="row">
@@ -42,33 +43,9 @@
       </section>
     </div>
 
-    <div class="carousel-item ">
+    <!-- <div class="carousel-item ">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."wallpaper_02.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
-          
-            <div class="container">
-						<div class="row">
-							<div class="col-lg-7 col-md-10 col-12 " >
-								<!-- Slider Content -->
-								<div class="slider-content " style="margin-top: 0px; ">
-                  <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.6);">VIII ENCUENTRO INTERNACIONAL ACADÉMICAS SIN FRONTERAS<span><strong>SEDE: PERÚ</strong></span></h1>
-                
-									<!--/ End Button -->
-                  <div class="coming-time">
-                    <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
-                  </div>
-                  <br>
-								</div>
-								<!--/ End Slider Content -->
-							</div>
-						</div>
-					</div>
-      </section>
-    </div>
-
-    <div class="carousel-item ">
-      <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."v_wallpaper_01.jpg" ?>');min-height:100vh;padding-top:100px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."v_wallpaper_01.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           
             <div class="container">
 						<div class="row">
@@ -78,12 +55,12 @@
 						</div>
 					</div>
       </section>
-    </div>
+    </div> -->
 
     <div class="carousel-item ">
   
         <section class="register-today overlay section home-slider "
-          style="background-image:url('<?php echo IMAGES."v_wallpaper_02.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+          style="background-image:url('<?php echo IMAGES."tacna.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           <div class="container ">
 						<div class="row">
 							<div class="col-lg-7 col-md-10 col-12 ">
@@ -113,7 +90,7 @@
 
     <div class="carousel-item">
       <section class="register-today overlay section home-slider"
-            style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:100vh;padding-top:110px !important; padding-bottom:20px!important;">
+            style="background-image:url('<?php echo IMAGES."imagen30.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           <div class="container ">
 						<div class="row">
 							<div class="col-lg-7 col-md-10 col-12 ">
