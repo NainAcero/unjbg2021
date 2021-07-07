@@ -28,13 +28,6 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Dra. Mariela Bobadilla Quispe",
-                    "comision" => "Comisión Tecnológica",
-                    "foto" => "imagen04.PNG",
-                    "fotoPais" => "peru.png",
-                    "nacionalidad" => "Peruana"
-                ],
-                [
                     "nombre" => "Mgr. Silvia Muñarriz O’Phelan",
                     "comision" => "Comisión Académica",
                     "foto" => "imagen05.PNG",

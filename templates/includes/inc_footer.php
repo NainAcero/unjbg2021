@@ -22,9 +22,9 @@
         <div class="col-lg-4 col-md-6 col-12">
           <!-- About -->
           <div class="single-widget about">
-            <h2 >Organizador</h2> 
+            <h2 style="font-size:20px" >Sede Perú </h2> 
             <ul class="list" style="position: relative;" >
-              <li>Universidad Nacional Jorge Basadre Grohmann</li>
+              <li>Organización : Universidad Nacional Jorge Basadre Grohmann</li>
             </ul>
             <ul class="list" style="position: relative;" >
               <li><b>29 y 30 de octubre</b></li>

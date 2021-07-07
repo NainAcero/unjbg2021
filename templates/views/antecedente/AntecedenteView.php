@@ -37,6 +37,7 @@
                 </div>
             </div>
         </div>
+        <!-- <img src="<?php echo IMAGES.'inicio.jpeg'?>" > -->
     </div>
 </section>
 

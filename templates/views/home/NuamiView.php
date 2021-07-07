@@ -34,6 +34,10 @@
                   <div class="coming-time">
                     <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
                   </div>
+                  <div class="button">
+										<!-- <a href="#" class="btn white">REGISTRARSE</a> -->
+                    <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
+									</div>
                   <br>
 								</div>
 								<!--/ End Slider Content -->
@@ -60,25 +64,12 @@
     <div class="carousel-item ">
   
         <section class="register-today overlay section home-slider "
-          style="background-image:url('<?php echo IMAGES."tacna.jpg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
+          style="background-image:url('<?php echo IMAGES."final.jpeg" ?>');min-height:90vh;padding-top:50px !important; padding-bottom:20px!important;">
           <div class="container ">
 						<div class="row">
 							<div class="col-lg-7 col-md-10 col-12 ">
 								<!-- Slider Content -->
-								<div class="slider-content " style="margin-top: 0px; ">
-								
-                <h1 class="slider-title" style="background: rgba(21, 147, 198, 0.7);">PRESENTACIÓN DE PONENCIAS, ENSAYOS E INVESTIGACIONES<span><strong>SEDE: PERÚ</strong></span></h1>
-			
-                  <div class="coming-time">
-                    <div class="clearfix" data-countdown="2021/10/27 11:00:00"></div>
-                  </div>
-									<!-- Button -->
-									<div class="button">
-										<!-- <a href="#" class="btn white">REGISTRARSE</a> -->
-                    <a href="https://forms.gle/Ro8qWQcB2ZT7hC2Q7" class="btn white primary"  target="_black">INSCRIPCIONES</a>
-									</div>
-									<!--/ End Button -->
-								</div>
+								<div class="slider-content " style="margin-top: 0px; "></div>
 								<!--/ End Slider Content -->
 							</div>
 						</div>
@@ -124,6 +115,7 @@
 
 <section class="courses section">
   <div class=" container">
+  
     <div class="row">
       <div class="col-lg-8 col-md-12 col-12" style="margin:4% 0%;">
         <div class="text-content">

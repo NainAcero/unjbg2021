@@ -8,7 +8,7 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3 col-12">
                 <div class="section-title bg">
-                    <h2>COMITÉ ORGANIZADOR <br> SEDE - PERÚ</h2>
+                    <h2> SEDE - PERÚ <br>COMITÉ ORGANIZADOR</h2>
                     <div class="icon"><i class="fa fa-users"></i></div>
                 </div>
             </div>
