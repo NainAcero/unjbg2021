@@ -35,7 +35,7 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Mgr. Susana Fernández Maldonado",
+                    "nombre" => "Mgr. Susana Fernández Vargas",
                     "comision" => "Comisión de Economía",
                     "foto" => "imagen06.PNG",
                     "fotoPais" => "peru.png",
