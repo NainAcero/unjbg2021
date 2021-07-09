@@ -35,7 +35,7 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Mgr. Susana Fernández Vargas",
+                    "nombre" => "Mgr. Susana Fernández Maldonado",
                     "comision" => "Comisión de Economía",
                     "foto" => "imagen06.PNG",
                     "fotoPais" => "peru.png",
@@ -51,7 +51,7 @@
                 [
                     "nombre" => "Arq. Beatriz Vargas Bernuy",
                     "comision" => "Comisión de Cultura",
-                    "foto" => "imagen09.jpeg",
+                    "foto" => "imagen09.JPEG",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
@@ -66,36 +66,4 @@
 
             View::render('Organizador', $data);
         }
-<<<<<<< HEAD
     }
-=======
-
-        public function internacional(){
-            $data = [
-                [
-                    "nombre" => "Dra. Gema Sologuren García",
-                    "comision" => "Comisión Organización y Logística",
-                    "foto" => "imagen01.PNG",
-                    "fotoPais" => "peru.png",
-                    "nacionalidad" => "Peruana"
-                ],
-                [
-                    "nombre" => "Dra. Rosa Requelme Ibañez",
-                    "comision" => "Comisión de Comunicaciones",
-                    "foto" => "imagen02.PNG",
-                    "fotoPais" => "peru.png",
-                    "nacionalidad" => "Peruana"
-                ],
-                [
-                    "nombre" => "Mgr. Carmen Salleres Sanchez",
-                    "comision" => "Comisión de Protocolo",
-                    "foto" => "imagen03.PNG",
-                    "fotoPais" => "peru.png",
-                    "nacionalidad" => "Peruana"
-                ]
-            ];
-
-            View::render('Internacional', $data);
-        }
-    }
->>>>>>> cb4ad0fb944c416f74a9f81d9e12e52b3533f2ee
