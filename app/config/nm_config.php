@@ -12,7 +12,7 @@
 
     define('PORT','80');
 
-    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/unjbg2021/' : 'https://unjbg2021.herokuapp.com/');
+    define('URL', IS_LOCAL ? 'http://127.0.0.1:'.PORT.'/unjbg2021/' : 'http://www.sinfronteras.unjbg.edu.pe/');
 
     // rutas de directorios y archivos =>
 
