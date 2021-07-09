@@ -51,7 +51,7 @@
                 [
                     "nombre" => "Arq. Beatriz Vargas Bernuy",
                     "comision" => "Comisión de Cultura",
-                    "foto" => "imagen09.JPEG",
+                    "foto" => "imagen09.jpeg",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
