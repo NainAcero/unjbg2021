@@ -35,7 +35,7 @@
         <div class="col-lg-4 col-md-6 col-12">
           <!-- About -->
           <div class="single-widget about">
-            <h2 >Aliados estratégicos</h2> 
+            <!-- <h2 >Aliados estratégicos</h2>  -->
             <ul class="list" style="position: relative;" >
               <li>Universidad Santo Tomás – Chile</li>
               <li>Universidad Privada de Tacna - Perú</li>

@@ -35,7 +35,7 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Mgr. Susana Fernández Maldonado",
+                    "nombre" => "Mgr. Susana Gregoria Fernández Vargas",
                     "comision" => "Comisión de Economía",
                     "foto" => "imagen06.PNG",
                     "fotoPais" => "peru.png",
@@ -52,6 +52,13 @@
                     "nombre" => "Arq. Beatriz Vargas Bernuy",
                     "comision" => "Comisión de Cultura",
                     "foto" => "imagen09.JPEG",
+                    "fotoPais" => "peru.png",
+                    "nacionalidad" => "Peruana"
+                ],
+                [
+                    "nombre" => "Msc. Gladis Benites",
+                    "comision" => "Comisión  Tecnológica",
+                    "foto" => "imagen10.JPEG",
                     "fotoPais" => "peru.png",
                     "nacionalidad" => "Peruana"
                 ],
