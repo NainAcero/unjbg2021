@@ -56,7 +56,7 @@
                     "nacionalidad" => "Peruana"
                 ],
                 [
-                    "nombre" => "Msc. Gladis Benites",
+                    "nombre" => "Msc. Gladys Gertrudis Benítez Palacios",
                     "comision" => "Comisión  Tecnológica",
                     "foto" => "imagen10.JPEG",
                     "fotoPais" => "peru.png",
